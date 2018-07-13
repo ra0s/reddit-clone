@@ -43,7 +43,7 @@ app.use(function(err, req, res, next) {
   res.render('error');
 });
 const mongoose = require('mongoose');
-const mongoURI = 'mongodb://ms-user:makeschool1@ds231991.mlab.com:31991/make-reddit'
+const mongoURI = //Insert URI
 mongoose.connect(mongoURI);
 mongoose.Promise = global.Promise;
 let db = mongoose.connection;
