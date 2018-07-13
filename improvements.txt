@@ -1,0 +1,15 @@
+improve home page/index
+show username of person that posted
+show username of person that made a room
+show username of person that is currently logged in
+make comment chains
+make navbar actually navigate to pages
+have homepage show all the rooms
+delete posts/comments/rooms
+don't need to log in to see rooms, but do need to log in to create rooms'
+make homebutton on navbar work
+make page more responsive
+search function for rooms
+switch rooms when already in a room
+sort rooms/posts
+view user profiles
